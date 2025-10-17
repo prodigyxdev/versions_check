@@ -1,1 +1,4 @@
-1.0.5
+1.0.6
+- Fixed chat issue
+- Added /damage
+- Added Phone Text /p, many more commands
