@@ -1,8 +1,4 @@
-1.0.9
-What's New:
-- Remove badges and added text to show Roles: Host, Mods, Speakers, Listeners.
-- Sorted Member list in rooms in the following order: Host, Mods, Speakers, Listeners at the bottom.
-- Added Display Name for rooms instead of username.
-- You can now add social medias handles in the profile page.
-- Blacklisted Words for Title and in the Description
-- Removed flying emojis and replaced with Emojis next to the members circle avatar.
+1.1.0
+Bug Fixes:
+- Fixed listeners mute icon being removed on mute
+[Replace Everything but the config or server/webhook.lua]
