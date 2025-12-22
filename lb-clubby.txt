@@ -1,4 +1,4 @@
 1.1.0
 Bug Fixes:
 - Fixed listeners mute icon being removed on mute
-[Replace Everything but the config or server/webhook.lua]
+- Replace Everything but the config or server/webhook.lua
