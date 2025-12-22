@@ -3,5 +3,3 @@ Bug Fixes:
 - Fixed listeners mute icon being removed on mute
 - The voice activity (soundwave) should be synchronized to all members in the room. 
 - Optimization
-- Server webhook now uses server cfg convar
-- Replace Everything but the config or server/webhook.lua
